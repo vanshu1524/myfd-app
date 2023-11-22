@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/myfd-app/static/css/main.c1176b82.css",
+    "main.js": "/myfd-app/static/js/main.5aeb50bd.js",
+    "index.html": "/myfd-app/index.html",
+    "main.c1176b82.css.map": "/myfd-app/static/css/main.c1176b82.css.map",
+    "main.5aeb50bd.js.map": "/myfd-app/static/js/main.5aeb50bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1176b82.css",
+    "static/js/main.5aeb50bd.js"
+  ]
+}
